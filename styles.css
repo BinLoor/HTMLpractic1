@@ -1,3 +1,23 @@
-h1 {color: blue}
-h2 {color: green}
-i {color: green}
+h1 {
+color: blue;
+text-align: center;
+width: 600px;
+}
+
+h2{
+color: green;
+text-align: center;
+width: 600px;
+}
+
+p {
+width: 600px;
+text-indent: 50px;
+text-align: justify;
+font-size: 20px;
+
+}
+
+li {
+width: 400px;
+}
